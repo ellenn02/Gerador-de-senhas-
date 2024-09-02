@@ -1,0 +1,30 @@
+# Gerador de Senha em Python
+
+Este é um simples gerador de senhas em Python que cria senhas aleatórias com base em caracteres alfanuméricos e símbolos especiais. Ideal para quem precisa de senhas seguras e únicas para suas contas online.
+
+## Funcionalidade
+
+O gerador de senha permite criar senhas de um comprimento especificado, utilizando uma combinação de letras maiúsculas, letras minúsculas, números e símbolos especiais.
+
+## Como Usar
+
+1. Clone o repositório para o seu ambiente local:
+    ```bash
+    git clone https://github.com/seu_usuario/nome_do_repositorio.git
+    ```
+
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd nome_do_repositorio
+    ```
+
+3. Execute o script para gerar uma senha:
+    ```bash
+    python gerador_senha.py
+    ```
+
+   O script gerará uma senha com o comprimento padrão de 8 caracteres. Para especificar um comprimento diferente, você pode passar um argumento para a função `gerar_senha` no código.
+
+## Exemplo de Uso
+
+O script imprimirá a senha gerada no console. Por exemplo:
