@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Ambiente Virtual
+venv/
+env/
+ENV/
+*.env
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.ncb
+*.sdf
+*.suo
+*.sw?
+
+# Outros
+*.DS_Store
+
+Projeto: Gerador de Senha em Python
+
+Descrição: Este projeto consiste em um gerador de senhas simples implementado em Python. O script permite a criação de senhas aleatórias que incluem letras maiúsculas, letras minúsculas, números e símbolos especiais. A funcionalidade principal é permitir a geração de senhas de qualquer comprimento especificado pelo usuário. O gerador utiliza a biblioteca padrão do Python e pode ser facilmente adaptado para diferentes requisitos de segurança.
+
+Objetivo:
+
+Desenvolver um gerador de senhas que produza senhas seguras e aleatórias.
+Implementar uma função que permita definir o comprimento da senha.
+Demonstrar a geração de uma senha em um formato simples e compreensível.
+Tecnologias Utilizadas:
+
+Python 3.x
+Bibliotecas padrão (random, string)
+Como Contribuir:
+
+Siga as instruções no README para contribuir com o projeto.
+Submeta Pull Requests com melhorias ou correções e descreva as mudanças realizadas.
